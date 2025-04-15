@@ -3,7 +3,7 @@ import pyautogui
 import time
 
 # Open the URL in the default browser
-url = 'https://kurcsoo.eu/dok.html'
+url = 'https://kxrcsoo.github.io'
 webbrowser.open(url)
 
 # Wait for the page to load (adjust time as necessary for slower connections)
